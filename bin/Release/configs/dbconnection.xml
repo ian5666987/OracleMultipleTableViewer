@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OracleConnectionSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataSource>ORCL</DataSource>
+  <UserId>SYSTEM</UserId>
+  <Password>AstrioTech2015*</Password>
+  <AutoConnect>false</AutoConnect>
+</OracleConnectionSettings>

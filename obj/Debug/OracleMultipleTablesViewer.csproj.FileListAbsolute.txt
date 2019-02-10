@@ -1,0 +1,14 @@
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\bin\Debug\Extension.Database.dll
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\bin\Debug\Extension.Debugger.dll
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\bin\Debug\Extension.Database.pdb
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\bin\Debug\Extension.Debugger.pdb
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\obj\Debug\MultipleTableViewer.OracleMultipleTableViewersForm.resources
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\obj\Debug\MultipleTableViewer.Properties.Resources.resources
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\obj\Debug\OracleMultipleTablesViewer.csproj.GenerateResource.Cache
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\obj\Debug\OracleMultipleTablesViewer.csprojResolveAssemblyReference.cache
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\bin\Debug\MultipleTableViewer.exe.config
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\bin\Debug\MultipleTableViewer.exe
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\bin\Debug\MultipleTableViewer.pdb
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\obj\Debug\MultipleTableViewer.exe
+C:\Astrio\CSharp2013\Desktop\MultipleTableReaders\obj\Debug\MultipleTableViewer.pdb
